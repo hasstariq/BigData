@@ -1,3 +1,3 @@
 # BigData
 
-# To implement map and reduce functions.
+# Implementation of map and reduce functions
